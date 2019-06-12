@@ -36,6 +36,10 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 
 <h2 id="non_chinese">Non-Chinese Poetry Generation</h2>
 
+* Jack Hopkins and Douwe Kiela. 2017. [Automatically Generating Rhythmic Verse with Neural Networks](https://www.aclweb.org/anthology/P17-1016). In *Proceedings of ACL 2017*.
+* Marjan Ghazvininejad, Xing Shi, Yejin Choi and Kevin Knight. 2016. [Generating Topical Poetry](https://www.aclweb.org/anthology/D16-1126). In *Proceedings of EMNLP 2016*.
+* Xiaofeng Wu, Naoko Tosa and Ryohei Nakatsu. 2009. [New Hitch Haiku: An Interactive Haiku Poem Composition Supporting Tool Applied for Sightseeing Navigation System](https://link.springer.com/content/pdf/10.1007%2F978-3-642-04052-8_19.pdf). In *Proceedings of the 8th International Conference on Entertainment Computing*.
+
 <h2 id="non_chinese">Multimodal Poetry Generation</h2>
 
 <h2 id="demo">Demo</h2>
