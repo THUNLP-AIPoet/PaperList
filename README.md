@@ -42,6 +42,10 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 
 <h2 id="non_chinese">Multimodal Poetry Generation</h2>
 
+* Bei Liu, Jianlong Fu, Makoto P. Kato and Masatoshi Yoshikawa. 2018. [Beyond Narrative Deion: Generating Poetry from Images by Multi-Adversarial Training](https://arxiv.org/pdf/1804.08473.pdf). In *Proceedings of the 2018 ACM Multimedia Conference*.
+* WenFeng Cheng, ChaoChung Wu, Ruihua Song, Jianlong Fu, Xing Xie and Jianyun Nie. 2018. [Image Inspired Poetry Generation in Xiaoice](https://arxiv.org/pdf/1808.03090.pdf). *arXiv 2018*.
+* Xu Linli, Jiang Liang, Qin Chuan, Wang Zhe and Du Dongfang. [How Images Inspire Poems: Generating Classical Chinese Poetry from Images with Memory Networks](https://arxiv.org/pdf/1803.02994.pdf). In *Proceedings of AAAI 2018.*
+
 <h2 id="demo">Demo</h2>
 
 * Marjan Ghazvininejad, Xing Shi, Jay Priyadarshi and Kevin Knight. 2017. [Hafez: An Interactive Poetry Generation System](https://www.aclweb.org/anthology/P17-4008). In *Proceedings of ACL 2017*.
