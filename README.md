@@ -43,3 +43,5 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 <h2 id="non_chinese">Multimodal Poetry Generation</h2>
 
 <h2 id="demo">Demo</h2>
+
+* Marjan Ghazvininejad, Xing Shi, Jay Priyadarshi and Kevin Knight. 2017. [Hafez: An Interactive Poetry Generation System](https://www.aclweb.org/anthology/P17-4008). In *Proceedings of ACL 2017*.
