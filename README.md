@@ -9,7 +9,7 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 * [Chinese Couplet Generation](#chinese_couplet)
 * [Non-Chinese Poetry Generation](#non_chinese)
 * [Multimodal Poetry Generation](#multimodal)
-* [Demo](#demos)
+* [Demo](#demo)
 
 
 <h2 id="chinese_classical">Chinese Classical Poetry Generation</h2>
@@ -30,3 +30,12 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 * Jing He, Ming Zhou, and Long Jiang. 2012. [Generating Chinese Classical Poems with Statistical Machine Translation Models](http://pdfs.semanticscholar.org/acd4/cd5e964faafa59d063704d99360dfe290525.pdf). In *Proceedings of AAAI 2012*.
 
 <h2 id="chinese_couplet">Chinese Couplet Generation</h2>
+
+* Rui Yan, Cheng-Te Li, Xiaohua Hu and Ming Zhang. 2016. [Chinese Couplet Generation with Neural Network Structures](https://www.aclweb.org/anthology/P16-1222). In *Proceedings of ACL 2016*.
+* Long Jiang and Ming Zhou. 2008. [Generating Chinese Couplets Using A Statistical Machine Translation Approach](https://www.aclweb.org/anthology/C08-1048). In *Proceedings of COLING 2008*.
+
+<h2 id="non_chinese">Non-Chinese Poetry Generation</h2>
+
+<h2 id="non_chinese">Multimodal Poetry Generation</h2>
+
+<h2 id="demo">Demo</h2>
