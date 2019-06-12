@@ -13,6 +13,7 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 
 
 <h2 id="chinese_classical">Chinese Classical Poetry Generation</h2>
+
 * Cheng Yang, Maosong Sun, Xiaoyuan Yi, and Wenhao Li. 2018. [Stylistic Chinese Poetry Generation via Unsupervised Style Disentanglement](https://aclweb.org/anthology/D18-1430). In *Proceedings of EMNLP 2018*.  [code](https://github.com/thunlp-poetry/StylisticPoetry)
 * Juntao Li, Yan Song, Haisong Zhang, Dongmin Chen, Shuming Shi, Dongyan Zhao, and Rui Yan. 2018. [Generating Classical Chinese Poems via Conditional Variational Autoencoder and Adversarial Training](https://aclweb.org/anthology/D18-1423). In *Proceedings of EMNLP 2018*.
 * Xiaoyuan Yi, Maosong Sun, Ruoyu Li, and Wenhao Li. 2018. [Automatic Poetry Generation with Mutual Reinforcement Learning](https://aclweb.org/anthology/D18-1353). In *Proceedings of EMNLP 2018*.
@@ -28,4 +29,4 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 * Rui Yan, Han Jiang, Mirella Lapata, Shou-De Lin, Xueqiang Lv, and Xiaoming Li. 2013. [I,Poet:Automatic Chinese Poetry Composition through A Generative Summarization Framework under Constrained Optimization](https://www.ijcai.org/Proceedings/13/Papers/324.pdf). In *Proceedings of IJCAI 2013*.
 * Jing He, Ming Zhou, and Long Jiang. 2012. [Generating Chinese Classical Poems with Statistical Machine Translation Models](http://pdfs.semanticscholar.org/acd4/cd5e964faafa59d063704d99360dfe290525.pdf). In *Proceedings of AAAI 2012*.
 
-<h2 id="chinese_classical">Chinese Classical Poetry Generation</h2>
+<h2 id="chinese_couplet">Chinese Couplet Generation</h2>
