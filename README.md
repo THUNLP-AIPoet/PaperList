@@ -78,4 +78,4 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 <h2 id="survey">Survey</h2>
 
 * Hugo Gonçalo Oliveira. 2017. [A Survey on Intelligent Poetry Generation:Languages, Features, Techniques, Reutilisation and Evaluation](https://www.aclweb.org/anthology/W17-3502). In *Proceedings of the 10th International Conference on Natural Language Generation*.
-* Hugo Gonçalo Oliveira. 2009. [Automatic generation of poetry: an overview](https://www.researchgate.net/profile/Hugo_Goncalo_Oliveira/publication/228610670_Automatic_generation_of_poetry_an_overview/links/00b7d517eea41271af000000.pdf). 
+* Hugo Gonçalo Oliveira. 2009. [Automatic Generation of Poetry: An Overview](https://www.researchgate.net/profile/Hugo_Goncalo_Oliveira/publication/228610670_Automatic_generation_of_poetry_an_overview/links/00b7d517eea41271af000000.pdf). 
