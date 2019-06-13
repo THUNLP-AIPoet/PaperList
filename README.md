@@ -73,9 +73,9 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 <h2 id="demo">Demo</h2>
 
 * Marjan Ghazvininejad, Xing Shi, Jay Priyadarshi and Kevin Knight. 2017. [Hafez: An Interactive Poetry Generation System](https://www.aclweb.org/anthology/P17-4008). In *Proceedings of ACL 2017*.
-* Hugo Goncalo Oliveira. 2012. [PoeTryMe: a versatile platform for poetry generation](https://eden.dei.uc.pt/~hroliv/pubs/GoncaloOliveira2012_c3gi_CRC.pdf). In *Proceedings of the Workshop Computational Creativity, Concept Invention, and General Intelligence*. 
+* Hugo Gonçalo Oliveira. 2012. [PoeTryMe: a Versatile Platform for Poetry Generation](https://eden.dei.uc.pt/~hroliv/pubs/GoncaloOliveira2012_c3gi_CRC.pdf). In *Proceedings of the Workshop Computational Creativity, Concept Invention, and General Intelligence*. 
 
 <h2 id="survey">Survey</h2>
 
-* Hugo Goncalo Oliveira. 2017. [A Survey on Intelligent Poetry Generation:Languages, Features, Techniques, Reutilisation and Evaluation](https://www.aclweb.org/anthology/W17-3502). In *Proceedings of the 10th International Conference on Natural Language Generation*.
-* Hugo Goncalo Oliveira. 2009. [Automatic generation of poetry: an overview](https://www.researchgate.net/profile/Hugo_Goncalo_Oliveira/publication/228610670_Automatic_generation_of_poetry_an_overview/links/00b7d517eea41271af000000.pdf). 
+* Hugo Gonçalo Oliveira. 2017. [A Survey on Intelligent Poetry Generation:Languages, Features, Techniques, Reutilisation and Evaluation](https://www.aclweb.org/anthology/W17-3502). In *Proceedings of the 10th International Conference on Natural Language Generation*.
+* Hugo Gonçalo Oliveira. 2009. [Automatic generation of poetry: an overview](https://www.researchgate.net/profile/Hugo_Goncalo_Oliveira/publication/228610670_Automatic_generation_of_poetry_an_overview/links/00b7d517eea41271af000000.pdf). 
