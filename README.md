@@ -51,7 +51,7 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 * Tony Veale. 2013. [Less Rhyme, More Reason:Knowledge-based Poetry Generation with Feeling, Insight and Wit](http://www.computationalcreativity.net/iccc2013/download/iccc2013-veale-2.pdf). In *Proceedings of ICCC 2013*.
 * Simon Colton, Jacob Goodwin and Tony Veale. 2012. [Full-FACE Poetry Generation](http://computationalcreativity.net/iccc2012/wp-content/uploads/2012/05/095-Colton.pdf). In *Proceedings of ICCC 2012*. 
 * Xiaofeng Wu, Naoko Tosa and Ryohei Nakatsu. 2009. [New Hitch Haiku: An Interactive Haiku Poem Composition Supporting Tool Applied for Sightseeing Navigation System](https://link.springer.com/content/pdf/10.1007%2F978-3-642-04052-8_19.pdf). In *Proceedings of the 8th International Conference on Entertainment Computing*.
-* Yael Netzer, David Gabay, Yoav Goldberg and Michael Elhadad. 2009. [Gaiku : Generating Haiku with Word Associations Norms](http://delivery.acm.org/10.1145/1650000/1642016/p32-netzer.pdf?ip=209.97.171.172&id=1642016&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1560403792_f366ea54c69dd086a013af196470548c). In *Proceedings of the Workshop on Computational Approaches to Linguistic Creativity*.
+* Yael Netzer, David Gabay, Yoav Goldberg and Michael Elhadad. 2009. [Gaiku: Generating Haiku with Word Associations Norms](https://www.aclweb.org/anthology/W09-2005). In *Proceedings of the NAACL HLT Workshop on Computational Approaches to Linguistic Creativity*.
 
 <h2 id="multimodal">Multimodal Poetry Generation</h2>
 
