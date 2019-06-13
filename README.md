@@ -1,7 +1,7 @@
 # Papers
 Contributed by Xiaoyuan Yi.
 
-This repository provides a paper list for the interdisciplinary filed of AI and poetry, including automatic poetry generation, analysis, translation, etc.
+This repository provides a paper list for the interdisciplinary field of AI and poetry, including automatic poetry generation, analysis, translation, etc.
 
 Our list is incomplete. We will keep adding papers and improving it. Any suggestions are welcome!
 
