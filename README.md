@@ -53,7 +53,7 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 * Xiaofeng Wu, Naoko Tosa and Ryohei Nakatsu. 2009. [New Hitch Haiku: An Interactive Haiku Poem Composition Supporting Tool Applied for Sightseeing Navigation System](https://link.springer.com/content/pdf/10.1007%2F978-3-642-04052-8_19.pdf). In *Proceedings of the 8th International Conference on Entertainment Computing*.
 * Yael Netzer, David Gabay, Yoav Goldberg and Michael Elhadad. 2009. [Gaiku : Generating Haiku with Word Associations Norms](http://delivery.acm.org/10.1145/1650000/1642016/p32-netzer.pdf?ip=209.97.171.172&id=1642016&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1560403792_f366ea54c69dd086a013af196470548c). In *Proceedings of the Workshop on Computational Approaches to Linguistic Creativity*.
 
-<h2 id="non_chinese">Multimodal Poetry Generation</h2>
+<h2 id="multimodal">Multimodal Poetry Generation</h2>
 
 * Bei Liu, Jianlong Fu, Makoto P. Kato and Masatoshi Yoshikawa. 2018. [Beyond Narrative Deion: Generating Poetry from Images by Multi-Adversarial Training](https://arxiv.org/pdf/1804.08473.pdf). In *Proceedings of the 2018 ACM Multimedia Conference*.
 * WenFeng Cheng, ChaoChung Wu, Ruihua Song, Jianlong Fu, Xing Xie and Jianyun Nie. 2018. [Image Inspired Poetry Generation in Xiaoice](https://arxiv.org/pdf/1808.03090.pdf). *arXiv 2018*.
