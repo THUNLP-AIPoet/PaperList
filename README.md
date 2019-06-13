@@ -58,7 +58,7 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 * Bei Liu, Jianlong Fu, Makoto P. Kato and Masatoshi Yoshikawa. 2018. [Beyond Narrative Deion: Generating Poetry from Images by Multi-Adversarial Training](https://arxiv.org/pdf/1804.08473.pdf). In *Proceedings of the 2018 ACM Multimedia Conference*.
 * Wen-Feng Cheng, Chao-Chung Wu, Ruihua Song, Jianlong Fu, Xing Xie and Jian-Yun Nie. 2018. [Image Inspired Poetry Generation in Xiaoice](https://arxiv.org/pdf/1808.03090.pdf). *arXiv 2018*.
 * Dayiheng Liu, Quan Guo, Wubo Li and Jiancheng Lv. 2018. [A Multi-Modal Chinese Poetry Generation Model](https://arxiv.org/pdf/1806.09792.pdf). In *Proceedings of IJCNN 2018*. 
-* Xu Linli, Jiang Liang, Qin Chuan, Wang Zhe and Du Dongfang. [How Images Inspire Poems: Generating Classical Chinese Poetry from Images with Memory Networks](https://arxiv.org/pdf/1803.02994.pdf). In *Proceedings of AAAI 2018.*
+* Linli Xu, Liang Jiang, Chuan Qin, Zhe Wang and Dongfang Du. [How Images Inspire Poems: Generating Classical Chinese Poetry from Images with Memory Networks](https://arxiv.org/pdf/1803.02994.pdf). In *Proceedings of AAAI 2018.*
 
 <h2 id="analysis">Poetry Analysis</h2>
 
