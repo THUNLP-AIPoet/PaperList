@@ -31,7 +31,7 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 * Rui Yan. 2016. [I,Poet:Automatic Poetry Composition through Recurrent Neural Networks with Iterative Polishing Schema](https://www.ijcai.org/Proceedings/16/Papers/319.pdf). In *Proceedings of IJCAI 2016*.
 * Qixin Wang, Tianyi Luo, Dong Wang, and Chao Xing. 2016. [Chinese Song Iambics Generation with Neural Attention-Based Model](https://www.ijcai.org/Proceedings/16/Papers/418.pdf). In *Proceedings of IJCAI 2016*.
 * Xingxing Zhang and Mirella Lapata. 2014. [Chinese Poetry Generation with Recurrent Neural Networks](https://www.aclweb.org/anthology/D14-1074). In *Proceedings of EMNLP 2014*.
-* Rui Yan, Han Jiang, Mirella Lapata, Shou-De Lin, Xueqiang Lv, and Xiaoming Li. 2013. [I,Poet:Automatic Chinese Poetry Composition through A Generative Summarization Framework under Constrained Optimization](https://www.ijcai.org/Proceedings/13/Papers/324.pdf). In *Proceedings of IJCAI 2013*.
+* Rui Yan, Han Jiang, Mirella Lapata, Shou-De Lin, Xueqiang Lv, and Xiaoming Li. 2013. [I,Poet:Automatic Chinese Poetry Composition through a Generative Summarization Framework under Constrained Optimization](https://www.ijcai.org/Proceedings/13/Papers/324.pdf). In *Proceedings of IJCAI 2013*.
 * Jing He, Ming Zhou, and Long Jiang. 2012. [Generating Chinese Classical Poems with Statistical Machine Translation Models](http://pdfs.semanticscholar.org/acd4/cd5e964faafa59d063704d99360dfe290525.pdf). In *Proceedings of AAAI 2012*.
 
 <h2 id="chinese_couplet">Chinese Couplet Generation</h2>
