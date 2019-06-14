@@ -1,4 +1,6 @@
-# Papers
+Paper List
+==========
+
 Contributed by Xiaoyuan Yi.
 
 This repository provides a paper list for the interdisciplinary field of AI and poetry, including automatic poetry generation, analysis, translation, etc.
