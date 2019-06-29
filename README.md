@@ -33,9 +33,11 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 * Zhe Wang, Wei He, Hua Wu, Haiyang Wu, Wei Li, Haifeng Wang, and Enhong Chen. 2016. [Chinese Poetry Generation with Planning Based Neural Network](https://www.aclweb.org/anthology/C16-1100). In *Proceedings of COLING 2016*.
 * Rui Yan. 2016. [I,Poet:Automatic Poetry Composition through Recurrent Neural Networks with Iterative Polishing Schema](https://www.ijcai.org/Proceedings/16/Papers/319.pdf). In *Proceedings of IJCAI 2016*.
 * Qixin Wang, Tianyi Luo, Dong Wang, and Chao Xing. 2016. [Chinese Song Iambics Generation with Neural Attention-Based Model](https://www.ijcai.org/Proceedings/16/Papers/418.pdf). In *Proceedings of IJCAI 2016*.
+* Ruiying Jiang, Lei Cui, Jing He, Ming Zhou and Zhigeng Pan. 2015. [Topic Model and Statistical Machine Translation Based Computer Assisted Poetry Generation](http://www.cnki.com.cn/Article/CJFDTotal-JSJX201512008.htm). *Chinese Journal of Computers*, 38(12):2426-2436. (In Chinese)
 * Xingxing Zhang and Mirella Lapata. 2014. [Chinese Poetry Generation with Recurrent Neural Networks](https://www.aclweb.org/anthology/D14-1074). In *Proceedings of EMNLP 2014*.
 * Rui Yan, Han Jiang, Mirella Lapata, Shou-De Lin, Xueqiang Lv, and Xiaoming Li. 2013. [I,Poet:Automatic Chinese Poetry Composition through a Generative Summarization Framework under Constrained Optimization](https://www.ijcai.org/Proceedings/13/Papers/324.pdf). In *Proceedings of IJCAI 2013*.
 * Jing He, Ming Zhou, and Long Jiang. 2012. [Generating Chinese Classical Poems with Statistical Machine Translation Models](http://pdfs.semanticscholar.org/acd4/cd5e964faafa59d063704d99360dfe290525.pdf). In *Proceedings of AAAI 2012*.
+* Changle Zhou, Wei You and Xiaojun Ding. 2010. [Genetic Algorithm and Its Implementation of Automatic Generation of Chinese SONGCI](http://swarmagents.cn.13442.m8849.cn/bs/files/%E8%AE%A1%E7%AE%97%E5%A3%AB2010518131655.pdf). *Journal of Software*, 21(3):427-437. (In Chinese)
 
 <h2 id="chinese_couplet">Chinese Couplet Generation</h2>
 
