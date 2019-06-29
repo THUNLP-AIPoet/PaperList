@@ -11,7 +11,7 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 |:---:|:---:|
 | [Chinese Classical Poetry Generation](#chinese_classical) | 14 |
 | [Chinese Couplet Generation](#chinese_couplet) | 2 |
-| [Non-Chinese Poetry Generation](#non_chinese) | 11 |
+| [Poetry Generation for Other Languages](#non_chinese) | 11 |
 | [Multimodal Poetry Generation](#multimodal) | 4 |
 | [Poetry Analysis](#analysis) | 2 |
 | [Poetry Translation](#translation) | 2 |
@@ -44,7 +44,7 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 * Rui Yan, Cheng-Te Li, Xiaohua Hu and Ming Zhang. 2016. [Chinese Couplet Generation with Neural Network Structures](https://www.aclweb.org/anthology/P16-1222). In *Proceedings of ACL 2016*.
 * Long Jiang and Ming Zhou. 2008. [Generating Chinese Couplets Using A Statistical Machine Translation Approach](https://www.aclweb.org/anthology/C08-1048). In *Proceedings of COLING 2008*.
 
-<h2 id="non_chinese">Non-Chinese Poetry Generation</h2>
+<h2 id="non_chinese">Poetry Generation for Other Languages</h2>
 
 * John Benhart, Tianlin Duan, Peter Hase, Liuyi Zhu and Cynthia Rudin. 2018. [Shall I Compare Thee to a Machine-Written Sonnet? An Approach to Algorithmic Sonnet Generation](https://arxiv.org/pdf/1811.05067.pdf). *arXiv 2018*.
 * Jack Hopkins and Douwe Kiela. 2017. [Automatically Generating Rhythmic Verse with Neural Networks](https://www.aclweb.org/anthology/P17-1016). In *Proceedings of ACL 2017*.
