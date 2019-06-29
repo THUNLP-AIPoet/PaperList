@@ -9,7 +9,7 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 
 | Section | # of Papers |
 |:---:|:---:|
-| [Chinese Classical Poetry Generation](#chinese_classical) | 14 |
+| [Chinese Classical Poetry Generation](#chinese_classical) | 17 |
 | [Chinese Couplet Generation](#chinese_couplet) | 2 |
 | [Poetry Generation for Other Languages](#non_chinese) | 11 |
 | [Multimodal Poetry Generation](#multimodal) | 4 |
