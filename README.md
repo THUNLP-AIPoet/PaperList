@@ -11,6 +11,7 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 |:---:|:---:|
 | [Chinese Classical Poetry Generation](#chinese_classical) | 18 |
 | [Chinese Couplet Generation](#chinese_couplet) | 2 |
+| [Modern Chinese Poetry Generation](#morden_chinese) | 1 |
 | [Poetry Generation for Other Languages](#non_chinese) | 11 |
 | [Multimodal Poetry Generation](#multimodal) | 4 |
 | [Poetry Analysis](#analysis) | 2 |
@@ -44,6 +45,10 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 
 * Rui Yan, Cheng-Te Li, Xiaohua Hu and Ming Zhang. 2016. [Chinese Couplet Generation with Neural Network Structures](https://www.aclweb.org/anthology/P16-1222). In *Proceedings of ACL 2016*.
 * Long Jiang and Ming Zhou. 2008. [Generating Chinese Couplets Using A Statistical Machine Translation Approach](https://www.aclweb.org/anthology/C08-1048). In *Proceedings of COLING 2008*.
+
+<h2 id="morden_chinese">Modern Chinese Poetry Generation</h2>
+
+* Zhiqiang Liu, Zuohui Fu, Jie Cao, Gerard de Melo, Yik-Cheung Tam, Cheng Niu and Jie Zhou. 2019. [Rhetorically Controlled Encoder-Decoder for Modern Chinese Poetry Generation](https://www.aclweb.org/anthology/P19-1192). In *Proceedings of ACL 2019*.
 
 <h2 id="non_chinese">Poetry Generation for Other Languages</h2>
 
@@ -79,7 +84,6 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 <h2 id="demo">Demo</h2>
 
 * Zhipeng Guo, Xiaoyuan Yi, Maosong Sun, Wenhao Li, Cheng Yang, Jiannan Liang, Huimin Chen, Yuhui Zhang and Ruoyu Li. 2019. [Jiuge: A Human-Machine Collaborative Chinese Classical Poetry Generation System](https://www.aclweb.org/anthology/P19-3005). In *Proceedings of ACL 2019*.
-
 * Marjan Ghazvininejad, Xing Shi, Jay Priyadarshi and Kevin Knight. 2017. [Hafez: An Interactive Poetry Generation System](https://www.aclweb.org/anthology/P17-4008). In *Proceedings of ACL 2017*.
 * Hugo Gonçalo Oliveira. 2012. [PoeTryMe: a Versatile Platform for Poetry Generation](https://eden.dei.uc.pt/~hroliv/pubs/GoncaloOliveira2012_c3gi_CRC.pdf). In *Proceedings of the Workshop Computational Creativity, Concept Invention, and General Intelligence*. 
 
