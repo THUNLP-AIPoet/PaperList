@@ -12,10 +12,10 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 | [Chinese Classical Poetry Generation](#chinese_classical) | 18 |
 | [Chinese Couplet Generation](#chinese_couplet) | 2 |
 | [Modern Chinese Poetry Generation](#morden_chinese) | 1 |
-| [Poetry Generation for Other Languages](#non_chinese) | 11 |
+| [Poetry Generation for Other Languages](#non_chinese) | 12 |
 | [Multimodal Poetry Generation](#multimodal) | 4 |
 | [Poetry Analysis](#analysis) | 2 |
-| [Poetry Translation](#translation) | 2 |
+| [Poetry Translation](#translation) | 3|
 | [Demo](#demo) | 3 |
 | [Survey](#survey) | 2 |
 
@@ -52,6 +52,7 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 
 <h2 id="non_chinese">Poetry Generation for Other Languages</h2>
 
+* Mika Hamalainen and Khalid Alnajjar. [Generating Modern Poetry Automatically in Finnish](https://www.aclweb.org/anthology/D19-1617.pdf). In *Proceedings of EMNLP 2019*. 
 * John Benhart, Tianlin Duan, Peter Hase, Liuyi Zhu and Cynthia Rudin. 2018. [Shall I Compare Thee to a Machine-Written Sonnet? An Approach to Algorithmic Sonnet Generation](https://arxiv.org/pdf/1811.05067.pdf). *arXiv 2018*.
 * Jack Hopkins and Douwe Kiela. 2017. [Automatically Generating Rhythmic Verse with Neural Networks](https://www.aclweb.org/anthology/P17-1016). In *Proceedings of ACL 2017*.
 * Marjan Ghazvininejad, Xing Shi, Yejin Choi and Kevin Knight. 2016. [Generating Topical Poetry](https://www.aclweb.org/anthology/D16-1126). In *Proceedings of EMNLP 2016*.
@@ -78,6 +79,7 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 
 <h2 id="translation">Poetry Translation</h2>
 
+* Zhichao Yang, Pengshan Cai, Yansong Feng, Fei Li, Weijiang Feng, Elena Suet-Ying Chiu and Hong Yu. [Generating Classical Chinese Poems from Vernacular Chinese](https://www.aclweb.org/anthology/D19-1637.pdf). In *Proceedings of EMNLP 2019*. &nbsp; \[[code](https://github.com/whaleloops/interpoetry)\]
 * Marjan Ghazvininejad, Yejin Choi, and Kevin Knight. 2018. [Neural Poetry Translation](https://aclweb.org/anthology/N18-2011). In *Proceedings of NAACL 2018*. 
 * Dmitriy Genzel, Jakob Uszkoreit and Franz Och. ["Poetic" Statistical Machine Translation: Rhyme and Meter](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36745.pdf). In *Proceedings of EMNLP 2010*.  
 
