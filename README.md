@@ -48,7 +48,7 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 
 <h2 id="morden_chinese">Modern Chinese Poetry Generation</h2>
 
-* Zhiqiang Liu, Zuohui Fu, Jie Cao, Gerard de Melo, Yik-Cheung Tam, Cheng Niu and Jie Zhou. 2019. [Rhetorically Controlled Encoder-Decoder for Modern Chinese Poetry Generation](https://www.aclweb.org/anthology/P19-1192). In *Proceedings of ACL 2019*.
+* Zhiqiang Liu, Zuohui Fu, Jie Cao, Gerard de Melo, Yik-Cheung Tam, Cheng Niu and Jie Zhou. 2019. [Rhetorically Controlled Encoder-Decoder for Modern Chinese Poetry Generation](https://www.aclweb.org/anthology/P19-1192). In *Proceedings of ACL 2019*. &nbsp; \[[code](https://github.com/Lucien-qiang/Rhetoric-Generator)\]
 
 <h2 id="non_chinese">Poetry Generation for Other Languages</h2>
 
