@@ -9,12 +9,12 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 
 | Section | # of Papers |
 |:---:|:---:|
-| [Chinese Classical Poetry Generation](#chinese_classical) | 18 |
+| [Chinese Classical Poetry Generation](#chinese_classical) | 20 |
 | [Chinese Couplet Generation](#chinese_couplet) | 2 |
 | [Modern Chinese Poetry Generation](#morden_chinese) | 1 |
 | [Poetry Generation for Other Languages](#non_chinese) | 12 |
 | [Multimodal Poetry Generation](#multimodal) | 4 |
-| [Poetry Analysis](#analysis) | 2 |
+| [Poetry Analysis](#analysis) | 3|
 | [Poetry Translation](#translation) | 3|
 | [Demo](#demo) | 3 |
 | [Survey](#survey) | 2 |
@@ -22,6 +22,8 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 
 <h2 id="chinese_classical">Chinese Classical Poetry Generation</h2>
 
+* Xiaoyuan Yi, Ruoyu Li, Cheng Yang, Wenhao Li and Maosong Sun. 2020. [MixPoet: Diverse Poetry Generation via Learning Controllable Mixed Latent Space](https://arxiv.org/pdf/2003.06094.pdf). In *Proceedings of AAAI 2020*.
+* Liming Deng, Jie Wang, Hangming Liang, Hui Chen, Zhiqiang Xie, Bojin Zhuang, Shaojun Wang and Jing Xiao. 2020. [An Iterative Polishing Framework based on Quality Aware Masked LanguageModel for Chinese Poetry Generation](https://arxiv.org/pdf/1911.13182.pdf). In *Proceedings of AAAI 2020*.
 * Huimin Chen, Xiaoyuan Yi, Maosong Sun, Wenhao Li, Cheng Yang and Zhipeng Guo. 2019. [Sentiment-Controllable Chinese Poetry Generation](https://www.ijcai.org/proceedings/2019/0684.pdf). In *Proceedings of IJCAI 2019*.
 * Jiannan Liang, Maosong Sun, Xiaoyuan Yi, Cheng Yang, Huimin Chen and Zhenghao Liu. 2019. [Neural Network-Based Jiju Poetry Generation](http://jcip.cipsc.org.cn/CN/volumn/volumn_1312.shtml). *Journal of Chinese Information Processing*, 33(3):126–135. (In Chinese)
 * Cheng Yang, Maosong Sun, Xiaoyuan Yi, and Wenhao Li. 2018. [Stylistic Chinese Poetry Generation via Unsupervised Style Disentanglement](https://aclweb.org/anthology/D18-1430). In *Proceedings of EMNLP 2018*. &nbsp; \[[code](https://github.com/thunlp-poetry/StylisticPoetry)\]
@@ -74,6 +76,7 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 
 <h2 id="analysis">Poetry Analysis</h2>
 
+* Jiannan Liang, Maosong Sun and Xiaoyuan Yi. 2019. [Neural Network-Based Poetry Retrieval](http://cips-cl.org/static/anthology/CCL-2019/CCL-19-019.pdf). In *Proceedings of CCL 2019*. (In Chinese)
 * Manex Agirrezabal, Inaki Alegria and Mans Hulden. 2016. [Machine Learning for Metrical Analysis of English Poetry](https://www.aclweb.org/anthology/C16-1074). In *Proceedings of COLING 2016*. 
 * Erica Greene, Tugba Bodrumlu and Kevin Knight. 2010. [Automatic Analysis of Rhythmic Poetrywith Applications to Generation and Translation](https://www.aclweb.org/anthology/D10-1051). In *Proceedings of EMNLP 2010*. 
 
