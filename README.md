@@ -16,7 +16,7 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 | [Multimodal Poetry Generation](#multimodal) | 4 |
 | [Poetry Analysis](#analysis) | 3|
 | [Poetry Translation](#translation) | 3|
-| [Demo](#demo) | 3 |
+| [Demo](#demo) | 4|
 | [Survey](#survey) | 2 |
 
 
@@ -88,6 +88,7 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 
 <h2 id="demo">Demo</h2>
 
+* Jinyi Hu and Maosong Sun. 2020. [Generating Major Types of Chinese Classical Poetry in a Uniformed Framework](https://arxiv.org/abs/2003.11528). In *Proceedings of  Language Resources and Evaluation Conference 2020*.
 * Zhipeng Guo, Xiaoyuan Yi, Maosong Sun, Wenhao Li, Cheng Yang, Jiannan Liang, Huimin Chen, Yuhui Zhang and Ruoyu Li. 2019. [Jiuge: A Human-Machine Collaborative Chinese Classical Poetry Generation System](https://www.aclweb.org/anthology/P19-3005). In *Proceedings of ACL 2019*.
 * Marjan Ghazvininejad, Xing Shi, Jay Priyadarshi and Kevin Knight. 2017. [Hafez: An Interactive Poetry Generation System](https://www.aclweb.org/anthology/P17-4008). In *Proceedings of ACL 2017*.
 * Hugo Gonçalo Oliveira. 2012. [PoeTryMe: a Versatile Platform for Poetry Generation](https://eden.dei.uc.pt/~hroliv/pubs/GoncaloOliveira2012_c3gi_CRC.pdf). In *Proceedings of the Workshop Computational Creativity, Concept Invention, and General Intelligence*. 
