@@ -9,10 +9,10 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 
 | Section | # of Papers |
 |:---:|:---:|
-| [Chinese Classical Poetry Generation](#chinese_classical) | 20 |
+| [Chinese Classical Poetry Generation](#chinese_classical) | 21 |
 | [Chinese Couplet Generation](#chinese_couplet) | 2 |
 | [Modern Chinese Poetry Generation](#morden_chinese) | 1 |
-| [Poetry Generation for Other Languages](#non_chinese) | 12 |
+| [Poetry Generation for Other Languages](#non_chinese) | 14 |
 | [Multimodal Poetry Generation](#multimodal) | 4 |
 | [Poetry Analysis](#analysis) | 3|
 | [Poetry Translation](#translation) | 3|
@@ -22,6 +22,7 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 
 <h2 id="chinese_classical">Chinese Classical Poetry Generation</h2>
 
+* Piji Li and Haisong Zhang and Xiaojiang Liu and Shuming Shi. 2020. [Rigid Formats Controlled Text Generation](https://www.aclweb.org/anthology/2020.acl-main.68.pdf). In *Proceedings of ACL 2020*.
 * Xiaoyuan Yi, Ruoyu Li, Cheng Yang, Wenhao Li and Maosong Sun. 2020. [MixPoet: Diverse Poetry Generation via Learning Controllable Mixed Latent Space](https://arxiv.org/pdf/2003.06094.pdf). In *Proceedings of AAAI 2020*. &nbsp; \[[code](https://github.com/THUNLP-AIPoet/MixPoet)\]
 * Liming Deng, Jie Wang, Hangming Liang, Hui Chen, Zhiqiang Xie, Bojin Zhuang, Shaojun Wang and Jing Xiao. 2020. [An Iterative Polishing Framework based on Quality Aware Masked LanguageModel for Chinese Poetry Generation](https://arxiv.org/pdf/1911.13182.pdf). In *Proceedings of AAAI 2020*.
 * Huimin Chen, Xiaoyuan Yi, Maosong Sun, Wenhao Li, Cheng Yang and Zhipeng Guo. 2019. [Sentiment-Controllable Chinese Poetry Generation](https://www.ijcai.org/proceedings/2019/0684.pdf). In *Proceedings of IJCAI 2019*.
@@ -54,6 +55,8 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 
 <h2 id="non_chinese">Poetry Generation for Other Languages</h2>
 
+* Tim Van de Cruys. 2020. [Automatic Poetry Generation from Prosaic Text](https://www.aclweb.org/anthology/2020.acl-main.223.pdf). In *Proceedings of ACL 2020*.
+* Piji Li and Haisong Zhang and Xiaojiang Liu and Shuming Shi. 2020. [Rigid Formats Controlled Text Generation](https://www.aclweb.org/anthology/2020.acl-main.68.pdf). In *Proceedings of ACL 2020*.
 * Mika Hamalainen and Khalid Alnajjar. [Generating Modern Poetry Automatically in Finnish](https://www.aclweb.org/anthology/D19-1617.pdf). In *Proceedings of EMNLP 2019*. 
 * John Benhart, Tianlin Duan, Peter Hase, Liuyi Zhu and Cynthia Rudin. 2018. [Shall I Compare Thee to a Machine-Written Sonnet? An Approach to Algorithmic Sonnet Generation](https://arxiv.org/pdf/1811.05067.pdf). *arXiv 2018*.
 * Jack Hopkins and Douwe Kiela. 2017. [Automatically Generating Rhythmic Verse with Neural Networks](https://www.aclweb.org/anthology/P17-1016). In *Proceedings of ACL 2017*.
