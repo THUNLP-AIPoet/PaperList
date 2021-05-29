@@ -12,8 +12,8 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 | [Chinese Classical Poetry Generation](#chinese_classical) | 21 |
 | [Chinese Couplet Generation](#chinese_couplet) | 2 |
 | [Modern Chinese Poetry Generation](#morden_chinese) | 1 |
-| [Poetry Generation for Other Languages](#non_chinese) | 14 |
-| [Multimodal Poetry Generation](#multimodal) | 4 |
+| [Poetry Generation for Other Languages](#non_chinese) | 15 |
+| [Multimodal Poetry Generation](#multimodal) | 5 |
 | [Poetry Analysis](#analysis) | 3|
 | [Poetry Translation](#translation) | 3|
 | [Demo](#demo) | 4|
@@ -55,6 +55,7 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 
 <h2 id="non_chinese">Poetry Generation for Other Languages</h2>
 
+* Agarwal and Kann. 2020. [Acrostic Poem Generation](https://www.aclweb.org/anthology/2020.emnlp-main.94.pdf). In *Proceedings of EMNLP 2020*.
 * Tim Van de Cruys. 2020. [Automatic Poetry Generation from Prosaic Text](https://www.aclweb.org/anthology/2020.acl-main.223.pdf). In *Proceedings of ACL 2020*.
 * Piji Li and Haisong Zhang and Xiaojiang Liu and Shuming Shi. 2020. [Rigid Formats Controlled Text Generation](https://www.aclweb.org/anthology/2020.acl-main.68.pdf). In *Proceedings of ACL 2020*.
 * Mika Hamalainen and Khalid Alnajjar. [Generating Modern Poetry Automatically in Finnish](https://www.aclweb.org/anthology/D19-1617.pdf). In *Proceedings of EMNLP 2019*. 
@@ -75,6 +76,7 @@ Our list is incomplete. We will keep adding papers and improving it. Any suggest
 * Bei Liu, Jianlong Fu, Makoto P. Kato and Masatoshi Yoshikawa. 2018. [Beyond Narrative Deion: Generating Poetry from Images by Multi-Adversarial Training](https://arxiv.org/pdf/1804.08473.pdf). In *Proceedings of the 2018 ACM Multimedia Conference*.
 * Wen-Feng Cheng, Chao-Chung Wu, Ruihua Song, Jianlong Fu, Xing Xie and Jian-Yun Nie. 2018. [Image Inspired Poetry Generation in Xiaoice](https://arxiv.org/pdf/1808.03090.pdf). *arXiv 2018*.
 * Dayiheng Liu, Quan Guo, Wubo Li and Jiancheng Lv. 2018. [A Multi-Modal Chinese Poetry Generation Model](https://arxiv.org/pdf/1806.09792.pdf). In *Proceedings of IJCNN 2018*. 
+* Li Liu, Xiaojun Wan and Zongming Guo. 2020. [Images2poem: Generating chinese poetry from image streams](https://dl.acm.org/doi/pdf/10.1145/3240508.3241910). In *Proceedings of ACM International Conference on Multimedia 2018*. 
 * Linli Xu, Liang Jiang, Chuan Qin, Zhe Wang and Dongfang Du. [How Images Inspire Poems: Generating Classical Chinese Poetry from Images with Memory Networks](https://arxiv.org/pdf/1803.02994.pdf). In *Proceedings of AAAI 2018.*
 
 <h2 id="analysis">Poetry Analysis</h2>
